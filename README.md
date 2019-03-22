@@ -1,7 +1,7 @@
 # Google Calendar Automator
 Scrapes calendar events from HTML table data and uploads them to your calendar through the Google Calendar API. This saves the user from having to manually transfer every event on a webpage to their calendar.
 
-Schedules and events in HTML are usually stored in tables. With BeatifulSoup, we can more easily parse through a table's rows and columns. This project retrieves the relevant event data such as time and description and converts into a JSON. The JSON is then sent to the Google Calendar API which is able to populate a calendar through JSON data. 
+Schedules and events in HTML are usually stored in tables. With BeautifulSoup, we can more easily parse through a table's rows and columns. This project retrieves the relevant event data such as time and description and converts into a JSON. The JSON is then sent to the Google Calendar API which is able to populate a calendar through JSON data. 
 
 ## Getting Started
 
