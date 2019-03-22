@@ -12,6 +12,8 @@ Install BeautifulSoup4 with `pip install BeautifulSoup4`
 
 Clone the repository with `git clone https://github.com/DNishanth/Google-Calendar-Automator.git`
 
+Enable the Google Calendar API and generate your credentials: https://developers.google.com/calendar/quickstart/python
+
 ### Usage
 Test with test_mahacks.py and test_soccer.py
 
