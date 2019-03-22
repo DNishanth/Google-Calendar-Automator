@@ -17,4 +17,4 @@ Test with test_mahacks.py and test_soccer.py
 
 ### Notes
 - Team Members: Nishanth Duraiarasu, Tyler Jiang, Kevin Kelly, Randy Wang
-- Prize Winner at [MAHacks 2017](https://www.hackerearth.com/sprints/mahacks-spring-2017/ 
+- Prize Winner at [MAHacks 2017](https://www.hackerearth.com/sprints/mahacks-spring-2017/)
