@@ -8,7 +8,7 @@ Schedules and events in HTML are usually stored in tables. With BeatifulSoup, we
 ### Installing
 Requires Python 2 and BeautifulSoup4
 
-Install BeatifulSoup4 with `pip install BeatifulSoup4`
+Install BeautifulSoup4 with `pip install BeatifulSoup4`
 
 Clone the repository with `git clone https://github.com/DNishanth/Google-Calendar-Automator.git`
 
